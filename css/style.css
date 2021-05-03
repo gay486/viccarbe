@@ -90,7 +90,7 @@
 #header .wrap .mobileMenu .moSocial ul li a i {font-size:24px;color:#000;}
 
 /* 로그인 모달창 */
-.modal {}
+/* .modal {}
 .modal .wrap {}
 .modal .wrap .gap {}
 .modal .wrap .gap > div {}
@@ -116,7 +116,7 @@
 .modal .wrap .gap > div .md-right .md-title h2 form > ul > li > div .ajax-loader {}
 .modal .wrap .gap > div .md-right .md-title h2 form > ul > li > div .ajax-loader i {}
 .modal .wrap .gap > div .md-right .md-title h2 form > ul > li.error-message {}
-.modal .wrap .gap > div .md-right .md-title h2 form > ul > li.error-message div {}
+.modal .wrap .gap > div .md-right .md-title h2 form > ul > li.error-message div {} */
 
 
 .modal .wrap .gap > div .md-close {position:absolute;top:20px;right:0;width:20px;height:20px;}
